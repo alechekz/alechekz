@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Alexey Cheremissov(@alechekz)
-- 👀 I’m interested in programing in go/JS/perl
-- 🌱 I’m currently learning of how to build web-server with go on backend and js on frontend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - telegram - @alechekz
+- 👀 I’m interested in programing in Golang/JS/Perl
 
 <!---
 alechekz/alechekz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
